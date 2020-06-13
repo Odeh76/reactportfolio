@@ -1,0 +1,13 @@
+:root {
+    --blueMain: #2a2a72;
+    --whiteMain: #ffffff;
+    --blackMain: #000000;
+    --lightGray: #808080;
+    --lightBlue: #dfebe8;
+}
+
+* {
+    background-color: var(--whiteMain);
+    margin: 0;
+    padding: 0;
+}
